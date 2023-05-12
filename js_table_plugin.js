@@ -1,0 +1,10 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css"></script>
+<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+
+
+$(document).ready( function () {
+    $('#myTable').DataTable();
+} );
+
+//<p>Read full documnetation <a href="https://datatables.net/" target="_blank">here</a></p>
